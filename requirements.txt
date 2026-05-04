@@ -8,3 +8,4 @@ langchain-google-genai
 ipykernel
 langchain-google-vertexai
 langchain-tavily
+python-dotenv
